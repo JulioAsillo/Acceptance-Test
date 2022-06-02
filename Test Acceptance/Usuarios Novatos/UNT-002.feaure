@@ -1,0 +1,12 @@
+UNT-002
+Feature: El novato Textil publica sus dudas en los grupos donde está.
+
+Criterios de Aceptación:
+Escenario: El novato textil tiene dudas o quiere compartir ideas
+Dado que aprender solo un área de trabajo del sector textil es difícil
+Y piensa hacer una publicación para pedir ayuda
+Cuando presiona en “Publicar contenido”
+Entonces puede escribir las dudas que tiene sobre el área en que se quiere especializar.
+
+Examples:
+  |Publicar | ¿Cómo puedo coser en forma Z de manera precisa?|
